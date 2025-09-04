@@ -54,5 +54,5 @@ Data is **synthetic** and created as part of this project for simulation purpose
 ## 🔹 How to Run
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/library-management-system.git
+  [ git clone https://github.com/your-username/library-management-system.git](https://github.com/Atib121/Library_System_management_SQL_Project)
 
